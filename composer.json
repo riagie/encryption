@@ -21,7 +21,7 @@
     "config": {
         "optimize-autoloader": true,
         "apcu-autoloader": true,
-        "sort-packages": true
+        "sort-packages": true 
     },
     "archive": {
         "directory": "dist", 
