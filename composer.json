@@ -24,7 +24,7 @@
         "sort-packages": true
     },
     "archive": {
-        "directory": "dist",
+        "directory": "dist", 
         "skip-dev": false
     },
 	"composer-runtime-api": "^2.0",
